@@ -1,0 +1,67 @@
+.content {
+  text-align: center;
+
+  color: white;
+}
+.content h5 {
+  padding: 10px;
+}
+.content h6 {
+  padding: 5px;
+}
+.col-6 h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.half {
+  background-image: url("https://www.aesop.com/u1nb1km7t5q7/3HBvecjnqDi2VIcKzpPsfi/0f4b5e5e872949fe558e902a285aa577/Aesop_Tame_and_Sculpt_Web_Secondary_Expander_1_Tame_Desktop_3840x1383px.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.another-half {
+  background-image: url("https://www.aesop.com/u1nb1km7t5q7/2ufG9C0ZajCpeFo5jnSZtW/758ca0063a46d4dbc723eb09ed7d4b5d/Aesop_Tame_and_Sculpt_Web_Secondary_Expander_2_Sculpt_Desktop_3840x1383px.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.card {
+  width: 18rem;
+  border: none;
+}
+.card-img-top {
+  width: 400px;
+  height: 387.7px;
+}
+
+.owl-prev {
+  left: -130px;
+  width: 100px;
+  color: black;
+  background-color: black;
+}
+.owl-next {
+  right: -130px;
+  width: 100px;
+}
+.owl-prev,
+.owl-next {
+  position: absolute;
+  top: 30%;
+}
+
+.owl-next span {
+  font-size: 80px;
+  color: black;
+  width: 100px;
+}
+.owl-prev span {
+  font-size: 80px;
+  color: black;
+  width: 100px;
+}
+
+.owl-theme .owl-nav[class*="owl-"]:hover {
+  background-color: black;
+}

@@ -1,0 +1,32 @@
+.cons {
+}
+.img {
+  background-image: url("https://www.aesop.com/u1nb1km7t5q7/7mct7IlGuWuHEn5HI3jIZG/fccaadfa68cc15aab0f5579c7a2a607b/Aesop-Live-Assistance-Desktop-2560x1440px-2-.jpg");
+  background-size: cover;
+  height: 442px;
+}
+.img2 {
+  background-image: url("https://www.aesop.com/u1nb1km7t5q7/4k8b0xmQYICf1ckVmUN6Sz/c6316b48d69736d9d562ef75a3e7df77/Aesop-HK-New-Town-Plaza-Hero-Bleed-Mobile-640x640px.jpg");
+  background-size: cover;
+  height: 442px;
+}
+.con {
+  overflow-x: hidden;
+}
+.button {
+  border: 1px solid black;
+  width: 300px;
+}
+.button p {
+  padding: 20px;
+}
+.butt {
+  margin: 0;
+}
+.butt span {
+  margin-left: 80px;
+}
+.button:hover p {
+  background-color: black;
+  color: white;
+}

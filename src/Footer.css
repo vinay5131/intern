@@ -1,0 +1,17 @@
+.footer {
+  background-color: black;
+}
+
+.button-foot {
+  border: 1px solid white;
+  width: 80%;
+}
+.button-foot p {
+  padding: 10px;
+}
+.butt-p {
+  margin: 0;
+}
+.butt-p span {
+  margin-left: 150px;
+}
